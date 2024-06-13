@@ -7,6 +7,6 @@
 total = float(input("Enter the total bill: $"))
 tip = int(input("How much would you like to tip? 10, 12, or 15? "))
 people = int(input("How many people are splitting the bill? "))
-total_tip = (tip / 100) * total
+total_tip = float((tip / 100) * total)
 total_per_person = float((total + total_tip) / people)
-print(f"Each person will pay: ${total_per_person}")
+print(f"Each person will pay: ${total_per_person:.2f}")
