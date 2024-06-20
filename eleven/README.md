@@ -1,0 +1,1 @@
+A simple blackjack game. Possibly need to update later to remove cards from the deck.
