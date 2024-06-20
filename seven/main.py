@@ -36,4 +36,3 @@ while game_over != True:
                         game_over = True
                 else:
                     lives -= 1
-
