@@ -1,0 +1,1 @@
+A simple calculator program which allows the user to enter a simple expression then calculates and prints it.
